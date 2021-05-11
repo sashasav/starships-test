@@ -1,0 +1,3 @@
+export const LOAD_STARSHIPS_DATA = 'LOAD_STARSHIPS_DATA';
+export const SET_LOADING = 'SET_LOADING';
+export const SET_PAGE = 'SET_PAGE';
